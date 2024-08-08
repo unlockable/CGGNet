@@ -1,7 +1,9 @@
 # CGGNet
+
+
 Compiler Guided Generation Network (CGGNet)
 
-Currently, I am working on cleaning up the code. It will be updated within the next week (7/27).
+Currently, I am working on cleaning up the code. It will be updated as soon as possible 
 
 
 Generated data evaluated in the evaluation section :
